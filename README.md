@@ -28,6 +28,7 @@ The Interactive Archviz Project leverages the power of Unreal Engine 5.2 to tran
 Follow these steps to set up the project on your local machine:
 
 1. **Download the project**:
+   Download the full project from google drive: https://drive.google.com/drive/folders/1K9MmFHNQt7B0Rpdskk6ib39Jl8oXV5Lb?usp=drive_link 
   
 3. **Download and install Unreal Engine 5.2** from the [official website](https://www.unrealengine.com/en-US/download).
 
