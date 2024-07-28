@@ -9,9 +9,6 @@ Welcome to the **Interactive Archviz Project**! This repository showcases an adv
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
