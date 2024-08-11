@@ -27,21 +27,20 @@ The Interactive Archviz Project leverages the power of Unreal Engine 5.2 to tran
 
 Follow these steps to set up the project on your local machine:
 
-1. **Download the project**:
-   Download the full project from google drive: https://drive.google.com/drive/folders/1K9MmFHNQt7B0Rpdskk6ib39Jl8oXV5Lb?usp=drive_link 
+1. **Download the project**
   
-3. **Download and install Unreal Engine 5.2** from the [official website](https://www.unrealengine.com/en-US/download).
+2. **Download and install Unreal Engine 5.2** from the [official website](https://www.unrealengine.com/en-US/download).
 
-4. **Install the Datasmith plugin** for SketchUp from the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/datasmith-exporter).
+3. **Install the Datasmith plugin** for SketchUp from the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/datasmith-exporter).
 
-5. **Convert SketchUp file to Datasmith format**:
+4. **Convert SketchUp file to Datasmith format**:
    - Open your SketchUp file (.skp) in SketchUp.
    - Use the Datasmith plugin to export the file to Datasmith format (.udatasmith).
 
-6. **Import Datasmith file into Unreal Engine**:
+5. **Import Datasmith file into Unreal Engine**:
    - Open Unreal Engine 5.2.
    - Import the Datasmith file into Unreal Engine project.
-7. **Add your file to level 2 "StartGameMode"**
+6. **Add your file to level 2 "StartGameMode"**
    - Remove any existing models from the level2
    - Import the model to the workspace
    - Add all necessary collisions into the model
